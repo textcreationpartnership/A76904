@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from the Isle of Wight since the return of the Parliaments commissioners from the King; with the paritculars thereof, and the number killed, and taken prisoners; and His Majesties declaration concerning the said fight. The demands and proposals of the army, touching His Majesty, and their full resolution thereupon; presented to the Lord Gen. Fairfax, to be communicated to the Parliament. Likewise, a bloudy fight at sea, and the full relation of a great victory obtained by the Prince of VVales his fleet, Prince Rupert mortally wounded, and divers other commanders slain and taken prisoners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76904</idno>
+            <idno type="STC">Wing B3282</idno>
+            <idno type="STC">Thomason E470_30</idno>
+            <idno type="STC">ESTC R205673</idno>
+            <idno type="EEBO-CITATION">99864985</idno>
+            <idno type="PROQUEST">99864985</idno>
+            <idno type="VID">162401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162401)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from the Isle of Wight since the return of the Parliaments commissioners from the King; with the paritculars thereof, and the number killed, and taken prisoners; and His Majesties declaration concerning the said fight. The demands and proposals of the army, touching His Majesty, and their full resolution thereupon; presented to the Lord Gen. Fairfax, to be communicated to the Parliament. Likewise, a bloudy fight at sea, and the full relation of a great victory obtained by the Prince of VVales his fleet, Prince Rupert mortally wounded, and divers other commanders slain and taken prisoners.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Gibson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: Description of fight between Royallists and Parliamentarian on the Isle of Wight. A summary of the Kings consessions to army. Major General Skippons recommendation that armed gards of the army be posted to insure the security of the Parliament due to "the confluence of disaffected persons to London." And a list of "The desires and proposals of the army.".</note>
+                  <note>Annotation on Thomason copy illegible, probably intended to read: "nouemb: 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162401:1" rendition="simple:additions"/>
+            <p>BLOUDY NEVVES From the Iſle of WIGHT SINCE The return of the Parliaments Commiſſioners from THE KING, WITH The particulars thereof, and the number killed, and taken priſoners; And His Majeſties Declaration concer<g ref="char:EOLhyphen"/>ning the ſaid Fight.</p>
+            <p>The Demands and Propoſals of the Army, touching His Majeſty, and their full Reſolution thereupon; preſented to the Lord Gen. <hi>Fairfax,</hi> to be communicated to the <hi>Parliament.</hi>
+            </p>
+            <p>Likewiſe, a bloudy Fight at Sea, and the full Relation of a great Victory obtained by the Prince of <hi>VVales</hi> his Fleet, Prince <hi>Rupert</hi> mortally wounded, and divers other Commanders ſlain and taken priſoners.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathaniel Gibſon.</hi> 1648</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:162401:2"/>
+            <pb n="1" facs="tcp:162401:2"/>
+            <head>BLOUDY NEWES From the Iſle of WIGHT SINCE The return of the Parliaments Commiſſioners; and the ſad accidents which befell thereupon.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>SInce the return of the Parliaments Commiſſio<g ref="char:EOLhyphen"/>ners here hath hapned very ſad accidents, occaſi<g ref="char:EOLhyphen"/>oned by a Diſputation between the Royaliſts and the Parliamenteers, the manner thus: On Thurſday night laſt Divers of the Royall party reſorted to the
+<pb n="2" facs="tcp:162401:3"/>
+               <hi>George</hi> Taverne, where they began their Soveraignes health luſtily; and upon a conference touching his Majeſties laſt Conceſſions to the Bill of abolition of Arch-biſhops, &amp;c. they reſolved to declare to the contrary, and theſeupon made great Proteſtations to avenge their quarrell upon ſome of the chief Inſtru<g ref="char:EOLhyphen"/>ments thereof: But heidg diſkovered in the height of their Arguments, four Files of Muſquetiers were ſent to apprehend them, and to bring them before the Go<g ref="char:EOLhyphen"/>vernour; but upon their motion to ſecure them, the Royaliſts reſiſted, drew their ſwords, and diſcharged their pocket piſtols, inſomuch that a bloudy conflict began to enſue, both parties engaging and diſputing the place with great reſoluteneſſe and gallantry, for the ſpace of half an hour, till at laſt Enſigne <hi>Smith</hi> entred the Room where they where, killed two of them, and ſecured the reſt, with the leſſe of three men; which done, he guarded them to <hi>Carisbrook,</hi> and upon exami<g ref="char:EOLhyphen"/>nation were ordered to be committed to ſafe cuſto<g ref="char:EOLhyphen"/>dy.</p>
+            <p>And his Majeſty being informed of the ſaid Riot and Commotion declared a great diſlike thereof, ſay<g ref="char:EOLhyphen"/>ing, <hi>That He deſired juſtice to be executed upon all ſuch Contemuers and Covenant-breakers.</hi>
+            </p>
+            <p>His Majeſty (ſince the Commiſſioners departure from hence) hath declared a very good liking of the Army, touching their conſtancy and great fidelity to the truſt repoſed in them.</p>
+            <closer>
+               <dateline>Dated from Newport in the Iſle of <hi>Wight,</hi> 
+                  <date>the 11. of Octob, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <pb n="3" facs="tcp:162401:3"/>
+                  <head>A Declaration of his Majeſties laſt Condeſcenſions in reference to the Army. <hi>viz.</hi>
+                  </head>
+                  <p>That his Maieſty is pleaſed to condeſcend that Iuſtice be executed upon all Delinquents and Offenders who have acted contrary to the fundamentall Lawes of this King<g ref="char:EOLhyphen"/>dome.</p>
+                  <p>That his Maieſty deſires ſuch a Peace may be conclu<g ref="char:EOLhyphen"/>ded of, that may tend to the preſervation of the Liberties and freedomes of the people of this Nation, without vio<g ref="char:EOLhyphen"/>lating their juſt rights and priviledges, or inſlaving them by oppreſſion and cruelty, either from King, Parliament, or any other Courts whatſoever.</p>
+                  <p>That his Maieſty is willing that proviſions be made for the payment of the Souldiery, even from the highest to the loweſt, and that they may have a generall Act of Obli<g ref="char:EOLhyphen"/>vion to protect and ſecure them for what they have done or acted, in relation to the wars, &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>Theſe particulars are ſaid to be diſperſed throught the Weſtern Regiments, with a deſire, that his Maje<g ref="char:EOLhyphen"/>ſties will and pleaſure may be publiſhed at the Head of each Regiment throughout the Army.</p>
+            <p>The Duke of <hi>Lenox,</hi> and the reſt of the Kings Coun<g ref="char:EOLhyphen"/>cell, preſſeth his Majeſty much to write to the Gene<g ref="char:EOLhyphen"/>rall for a happy compliance, and to endeavour a uni<g ref="char:EOLhyphen"/>ting upon honourable tearms and conditions, and for the better accompliſhing the ſame, they adviſe his Ma<g ref="char:EOLhyphen"/>jeſty to confer great Honours and Titles upon the ſu<g ref="char:EOLhyphen"/>pream Officers, as the Lord Generall <hi>Fairfax,</hi> Lieut. Cen. <hi>Cromwell,</hi> and others.</p>
+            <p>And it is ſaid, that his Majeſty hath ſomething to propoſe to the Generall, and Lieut. Gen. in relation to the ſame.</p>
+         </div>
+         <div type="account">
+            <pb n="4" facs="tcp:162401:4"/>
+            <head>A Declaration of Maior Gen. <hi>Skipon</hi> concerning the ARMY.</head>
+            <p>MAjor Gen. <hi>Skippon</hi> having received information of divers Plots and Conſpiracies agitating by the adverſe party againſt the Common-weale of this <hi>Kingdome,</hi> declared to both Houſes, the danger the Parliament and City was in by the confluence of diſ<g ref="char:EOLhyphen"/>affected perſons to <hi>London</hi> and parts adjacent, together with their plots tending to the aſſaſſinating of many of the Members, alſo his inability to protect them, and the reaſons why, and offered that they might go all ar<g ref="char:EOLhyphen"/>med, that <hi>Blunderbuſses</hi> be in the Houſe, and chiefly (if it would reliſh well) that ſome of the Army come to guard them, which beſides the ſaving other charge, will free at preſent the Country of giving ſo many free quarter.</p>
+         </div>
+         <div type="document">
+            <head>The Deſires and Propoſals of the Army.</head>
+            <opener>
+               <salute>May it pleaſe your Maieſty,</salute>
+            </opener>
+            <p>
+               <hi>MAy it pleaſe your Majeſty, Whereas,</hi> the Officers and Souldiery under the immediate conduct of his Excellency the Lord Generall <hi>FAIRFAX,</hi> are poſseſt with divers fears and jealouſies, that they can<g ref="char:EOLhyphen"/>not be ſafe for the future, unleſſe ſpeedy Iuſtice be exe<g ref="char:EOLhyphen"/>cuted upon the capitall Offenders of this Nation; and that this preſent Treaty may not conclude a peace with his Majeſty, without care taken to preſerve the Liberties and Freedomes of the people of this Nation; the which, be<g ref="char:EOLhyphen"/>ing granted and confirmed, we do declare, that none ſhall be more inſtrumentall for the ſetling of a ſafe and well-grounded Peace, then our ſelves. And that ſo ſoon as your Majesty ſhall be pleaſed, to enact and make proviſions
+<pb n="5" facs="tcp:162401:4"/>for the free-born people of <hi>England,</hi> that both we and fu<g ref="char:EOLhyphen"/>ture Generations may defend our ſelves againſt inſulting tyranny and oppreſſion; We ſhall uſe our utmost endea<g ref="char:EOLhyphen"/>vours for there-inveſting of your Royall perſon, and ma<g ref="char:EOLhyphen"/>king You and Your Poſterity happy and glorious through<g ref="char:EOLhyphen"/>out all Ages.</p>
+            <div type="proposals">
+               <head>The Propoſals.</head>
+               <p n="1">
+                  <hi>1</hi> That execution of Iustice may bee done upon thoſe ho raiſed the former and the later warres against the Parliament of <hi>England,</hi> And that there not be any exem<g ref="char:EOLhyphen"/>ption of perſons from Justice, to neither King nor Sub<g ref="char:EOLhyphen"/>ject. <hi>2</hi> That the Treaty may not conclude a peace with the King and his party, without care taken to preſerve the Liberties and Freedomes of the people of this Nation. <hi>3</hi> That limits may be ſet to bind Kings for the future, that they ſhall not have power to inſlave the people by tyranny and oppreſſion, and tryumph upon them as over conquered ſlaves. <hi>4</hi> That proviſions be made for the people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that both we and future Generations may defend our ſelves againſt inſulting Kings. <hi>5</hi> That there may be ſome courſe taken for pay for the Souldiery, that have ſer<g ref="char:EOLhyphen"/>ved and been faithfull to the Parliament. And ſufficient ſecurity thereunto for them, to guard them in what they have done. <hi>6</hi> That theſe, and ſuch other things as ſhall be agreed on by the Generall Councell, may be ſent to the Houſe of Commons by the Lord Generall, and his Excel<g ref="char:EOLhyphen"/>lency to deſire a ſpeedy anſwer therein.</p>
+               <closer>
+                  <signed>Signed by the new Agents of the Army.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:162401:5"/>
+            <head>A bloudy Fight between the Engliſh and the Dutch.</head>
+            <p>ON Sunday <hi>Novemb.</hi> 12. Letters from the Navy ſay, That there hath been a late Fight aboard the Princes Fleet between the Engliſh Commanders and the Dutch, the manner thus. Prince <hi>Rupert</hi> having re<g ref="char:EOLhyphen"/>ceived Commiſſion from the Prince of <hi>Wales,</hi> to com<g ref="char:EOLhyphen"/>mand in chief aboard His Highneſſes Fleet, the Mari<g ref="char:EOLhyphen"/>ners began to mutiny, and reſiſted his power, denying ſubmiſſion to his Orders; whereupon the Prince, and the reſt of his Iriſh and Dutch Commanders, called a Councell, and diſputing the quarrell, reſolved to make the chief Fomenters thereof exemplary; but the Sea<g ref="char:EOLhyphen"/>men unanimouſly reſolved to live and dye together, and upon the Princes Demands, to have ſome of the Ringleaders delivered up to anſwer it before the Prince of <hi>VVales,</hi> they gave him a volley, killed two of the Iriſh Commanders, wounded <hi>Rupert,</hi> and took priſo<g ref="char:EOLhyphen"/>ners Cap. <hi>Hamon,</hi> and Cap. <hi>Fog,</hi> and forced the reſt of the Royaliſts aſhore; it is thought they will ſpeedily come in upon Indempnity.</p>
+            <closer>
+               <dateline>
+                  <hi>Gowry</hi> 
+                  <date>
+                     <hi>Novemb.</hi> 10. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
